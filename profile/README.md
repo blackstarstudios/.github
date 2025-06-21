@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Game Catalog
-1. Overlume - 2D open world fantasy rpg
+1. Lumland - Text based Python fantasy rpg
 <!--
 2. Acres - Monopoly, but gambling
 3. Project MEK - Giant mech-based survival open world game. 
@@ -15,4 +15,4 @@
 ## Useful resources - where can the community find your docs? Is there anything else the community should know?
 
 ## About US
-We are a game development studio!
+We are an indie game development studio!
